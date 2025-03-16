@@ -1,0 +1,11 @@
+#output {
+    border: 1px solid black;
+    height: 300px;
+    overflow-y: scroll;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#input {
+    width: 300px;
+}
