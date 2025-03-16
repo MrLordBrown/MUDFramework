@@ -1,0 +1,4 @@
+id,name,description,material,walkable,transparent
+block1,Stone Block,A rough-hewn stone block,stone,true,false
+block2,Wooden Floor,A smooth wooden floor,wood,true,true
+block3,Brick Wall,A red brick wall,brick,false,false
